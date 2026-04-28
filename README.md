@@ -67,7 +67,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechnoWeb-Tamal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoWeb-Tamal&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoWeb-Tamal&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechnoWeb-Tamal&show_icons=true&theme=tokyonight&rank_icon=github&display_format=github-light-default" alt="Tamal's GitHub stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechnoWeb-Tamal&theme=tokyonight" alt="Tamal's GitHub streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechnoWeb-Tamal&theme=tokyonight&layout=compact" alt="Tamal's Top Languages" />
 </p>
